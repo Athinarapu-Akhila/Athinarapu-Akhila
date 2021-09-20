@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Akhila Athinarapu,prefinal year CSE student in GNITS,Hyderabad..
 
 <!--
 **AkhilaAthinarapu1003/AkhilaAthinarapu1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
