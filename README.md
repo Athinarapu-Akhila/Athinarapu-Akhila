@@ -8,7 +8,7 @@ I'm a Avid Learner and passionate about trending techonlogies.
 I Always want to explore my skills.
 
 
-🧠 I'm currently learning 
+🧠 I'm currently pursuing B.Tech CSE prefinal year at GNITS
 
 👯‍♀️ I'm looking to collaborate on more open source project.
 
