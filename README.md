@@ -4,15 +4,15 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## 🚀 About Me
-I'm a Avid Learner and passionate about trending techonlogies.
-I Always want to explore my skills.
+I'm a Avid Learner and passionate about trending technologies.
+I Always want to explore my skills.I am interested in graphic design and artistic activities. 
 
 
 🧠 I'm currently pursuing B.Tech CSE prefinal year at GNITS
 
-👯‍♀️ I'm looking to collaborate on more open source project.
+👯‍♀️ I'm looking to collaborate more on open source projects.
 
-💬 Ask me anything here related to java,python,google cloud,data analytis,Android Appliation development.
+💬 Ask me anything here related to java, python, google cloud, data analytics, Android Application development.
 
 😄 Pronouns: She/her
 
