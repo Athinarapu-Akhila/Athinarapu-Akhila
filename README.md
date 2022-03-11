@@ -16,7 +16,7 @@ I Always want to explore my skills.I am interested in graphic design and artisti
 
 😄 Pronouns: She/her
 
-🏅Google cloud Qwiklabs link:[https://www.qwiklabs.com/public_profiles/79c6c3ca-c943-41a3-95db-ac848ca2e2a6](https://www.qwiklabs.com/public_profiles/79c6c3ca-c943-41a3-95db-ac848ca2e2a6) 
+🏅Google cloud Qwiklabs link: [https://www.qwiklabs.com/public_profiles/79c6c3ca-c943-41a3-95db-ac848ca2e2a6](https://www.qwiklabs.com/public_profiles/79c6c3ca-c943-41a3-95db-ac848ca2e2a6) 
 
 
 ## 🛠 Skills
