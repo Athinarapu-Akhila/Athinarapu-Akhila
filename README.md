@@ -8,7 +8,7 @@ I'm a Avid Learner and passionate about trending technologies.
 I Always want to explore my skills.I am interested in graphic design and artistic activities. 
 
 
-🧠 I'm currently pursuing B.Tech CSE prefinal year at GNITS
+🧠 I'm currently pursuing B.Tech CSE Final year at GNITS
 
 👯‍♀️ I'm looking to collaborate more on open source projects.
 
