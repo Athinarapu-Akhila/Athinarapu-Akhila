@@ -31,8 +31,8 @@ I Always want to explore my skills.I am interested in graphic design and artisti
 
 ## GitHub Stats
 
-![Akhila's github stats](https://github-readme-stats.vercel.app/api?username=AkhilaAthinarapu1003&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Akhila's github stats](https://github-readme-stats.vercel.app/api?username=Athinarapu-Akhila&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaAthinarapu1003)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athinarapu-Akhila)
 
