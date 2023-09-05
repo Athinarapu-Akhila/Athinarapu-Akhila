@@ -42,3 +42,5 @@ Portfolio : https://athinarapu-akhila.github.io/portfolio/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athinarapu-Akhila)
 
+![Akhila's GitHub stats](https://github-readme-stats.vercel.app/api?username=athinarapu-akhila&show_icons=true&theme=radical)
+
