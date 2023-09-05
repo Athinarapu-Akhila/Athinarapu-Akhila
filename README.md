@@ -40,7 +40,8 @@ Portfolio : https://athinarapu-akhila.github.io/portfolio/
 ![Akhila's github stats](https://github-readme-stats.vercel.app/api?username=Athinarapu-Akhila&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athinarapu-Akhila)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athinarapu-akhila&layout=donut-vertical)](https://github.com/athinarapu-akhila/github-readme-stats)
+
+## Akhila's Wakatime stats
+
 [![Akhila's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/athinarapu-akhila/github-readme-stats)
