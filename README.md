@@ -35,13 +35,16 @@ Portfolio : https://athinarapu-akhila.github.io/portfolio/
 [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@akhilasagar)
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Akhila's github stats](https://github-readme-stats.vercel.app/api?username=Athinarapu-Akhila&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-## Most Used Languages
+
+## 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athinarapu-akhila&layout=donut-vertical)](https://github.com/athinarapu-akhila/github-readme-stats)
 
-## Akhila's Wakatime stats
+##  ⏱️Akhila's Wakatime stats
 
-[![Akhila's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/athinarapu-akhila/github-readme-stats)
+[![Akhila's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=athinarapu-akhila)](https://github.com/athinarapu-akhila/github-readme-stats)
+
+
